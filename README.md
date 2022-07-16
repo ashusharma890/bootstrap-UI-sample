@@ -1,6 +1,6 @@
 # bootstrap-UI_trial
 
-This is an practice Assignment in which a simple responsive web page is created which showcases a business  websie of a bootstrap services provider!
+This is an practice Assignment in which a simple responsive web page is created that showcases a business  website of a bootstrap services provider!
 
 Images are attached for reference & download purpose as well.
 
